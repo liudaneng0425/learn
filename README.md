@@ -1,3 +1,1 @@
-# learn
 # python
-# wechat
